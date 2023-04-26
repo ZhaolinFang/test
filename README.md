@@ -3,4 +3,4 @@ Jgit test
 
 
 
-1. Test commit
+1. pull test
